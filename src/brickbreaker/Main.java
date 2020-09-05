@@ -4,7 +4,7 @@ package brickbreaker;
 import javax.swing.JFrame;
 /**
  *
- * @author AMOD KUMAR RAI
+ * @author ACHAL KUMAR RAI
  */
 public class Main {
 
